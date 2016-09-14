@@ -58,10 +58,6 @@
 
 /* Basic */
 
-	p.bodyparagraph {
-      		font-size: 5px;
-    	}
-
 	body, input, select, textarea {
 		color: #000;
 		font-family: 'Source Sans Pro', sans-serif;
