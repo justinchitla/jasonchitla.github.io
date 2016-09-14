@@ -219,6 +219,10 @@ a {
   .main-content {
     padding: 2rem 1rem;
     font-size: 1rem; } }
+    
+    .bodyparagraph {
+      font-size: 12pt;
+    }
 
 .site-footer {
   padding-top: 2rem;
